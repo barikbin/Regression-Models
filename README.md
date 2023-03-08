@@ -1,3 +1,4 @@
 # Regression Models
-1. Gaussian process regression with noise-level estimation
-2. Polynomial Regression Model
+1. Random Forest Regression
+2. Gaussian process regression with noise-level estimation
+3. Polynomial Regression Model
